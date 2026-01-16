@@ -1,0 +1,16 @@
+taskforge-ts/
+├─ src/
+│  ├─ controllers/
+│  │  └─ task.controller.ts
+│  ├─ models/
+│  │  └─ task.model.ts
+│  ├─ routes/
+│  │  └─ task.routes.ts
+│  ├─ services/
+│  │  └─ task.service.ts
+│  ├─ app.ts
+│  └─ server.ts
+├─ .gitignore
+├─ package.json
+├─ tsconfig.json
+├─ README.md
